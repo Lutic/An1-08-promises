@@ -5,7 +5,7 @@
 		.module("feature")
 		.factory("tasksDataService", tasksDataService);
 
-	function tasksDataService() {
+	function tasksDataService($q, $timeout) {
 		return {
 
 		};
