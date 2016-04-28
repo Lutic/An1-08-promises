@@ -5,7 +5,7 @@
 		.module("feature")
 		.controller("Feature", Feature);
 
-	function Feature($scope, $q, tasksDataService) {
+	function Feature($q, tasksDataService) {
 
 
 		
