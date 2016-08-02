@@ -1,5 +1,5 @@
 {
-  "name": "todoApp",
+  "name": "todo-app",
   "version": "0.0.1",
   "description": "Example",
   "authors": [
@@ -15,8 +15,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.4.0",
+    "angular": "^1.5.8",
     "bootstrap": "~3.3.5"
-    
   }
 }
